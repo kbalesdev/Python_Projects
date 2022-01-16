@@ -1,0 +1,1 @@
+C:\Projects\Python_Projects\Create_Table_Script\venv\Scripts\python.exe C:\Projects\Python_Projects\Create_Table_Script\Create_Table_Script.py DESKTOP-G0G762V GiantBacklog VideoShows TestVideoShows
