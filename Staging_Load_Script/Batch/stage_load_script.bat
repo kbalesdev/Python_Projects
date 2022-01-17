@@ -1,1 +1,1 @@
-C:\Projects\Python_Projects\Staging_Load_Script\venv\Scripts\python.exe C:\Projects\Python_Projects\Staging_Load_Script\Staging_Load_Script.py DESKTOP-G0G762V GiantBacklog video_select.sql VideosTest
+C:\Projects\Python_Projects\Staging_Load_Script\venv\Scripts\python.exe C:\Projects\Python_Projects\Staging_Load_Script\Staging_Load_Script.py SERVER TABLE SQL_FILE NEW_TABLE
