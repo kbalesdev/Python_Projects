@@ -11,7 +11,7 @@ new_table_name = sys.argv[4]
 
 
 #%%
-# Connect to database and read table columns
+# Connect to database
 conn_str = f"Driver=SQL Server;Server={server_name};Database={database};Trusted_Connection=yes;"
 conn = pyodbc.connect(conn_str)
 
