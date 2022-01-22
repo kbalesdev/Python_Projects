@@ -9,6 +9,9 @@ __pycache__/
 # Output files
 Output/
 
+# API Class files
+API/
+
 # Distribution / packaging
 .Python
 build/
