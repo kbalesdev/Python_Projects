@@ -6,11 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Config files
+*.config
+
+# Log files
+Logs/
+
 # Output files
 Output/
 
-# API Class files
-API/
+giant_bomb_cli/
 
 # Distribution / packaging
 .Python
